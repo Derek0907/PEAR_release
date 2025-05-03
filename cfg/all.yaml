@@ -1,0 +1,13 @@
+DATA:
+  IMAGE: 'datasets/imgs_and_masks/img'  # Root path to RGB input images (.jpg)
+  HOTSPOTS: 'datasets/hotspots'  # Directory containing annotated interaction hotspots (.json)
+  POSE: 'datasets/pose'  # Path to 3D hand pose data (.pkl with MANO parameters and keypoints)
+  TRAJECTORY_VAL: 'datasets/trajectory/val_label'  # Ground truth hand trajectory labels (.pkl)
+  TRAJECTORY_TRAIN: 'datasets/trajectory/train_label'  # Ground truth hand trajectory labels which are processed through point -> heatmap(32*32) -> point (.pkl)
+  MASK: 'datasets/imgs_and_masks/mask'  # Binary segmentation masks for hand-object regions generated from LISA (.jpg)
+  CONTACT_AREA: 'datasets/contact/full'  # Binary contact area maps saved as colored PLY files (.ply)
+  POSE_INVALID: 'datasets/pose/26762.pkl' # Any pose pkl (.pkl)
+
+ANNOTATIONS:
+  TRAIN: 'annotation/train.csv'  # CSV annotation file listing training samples (UID, text, verb, etc.)
+  VAL: 'annotation/val.csv'  # CSV annotation file listing validation samples
