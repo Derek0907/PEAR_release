@@ -3,7 +3,8 @@
 [![License Badge](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Official PyTorch implementation of **PEAR**, published in *Science China Information Sciences (2025)*.
-📄 [View the paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4405-4)
+
+[View the paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4405-4)
 ---
 
 ## 📋 Table of Content
