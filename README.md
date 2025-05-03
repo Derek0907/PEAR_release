@@ -110,8 +110,7 @@ bash train.sh
 
 ## ✉️ Statement <a name="5"></a>
 
-This project is for research use only.  
-Contact us for commercial licensing: [zhangzichen@mail.ustc.edu.cn](mailto:zhangzichen@mail.ustc.edu.cn)
+This project is for research use only. Contact us: [zhangzichen@mail.ustc.edu.cn](mailto:zhangzichen@mail.ustc.edu.cn)
 
 ---
 
