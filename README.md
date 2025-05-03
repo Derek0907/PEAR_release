@@ -116,6 +116,8 @@ This project is for research use only. For any questions or commercial licensing
 
 ## 🔍 Citation <a name="6"></a>
 
+If you find this repository useful, please consider citing our paper:
+
 ```bibtex
 @article{zhang2025pear,
   title   = {PEAR: phrase-based hand-object interaction anticipation},
