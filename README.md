@@ -48,15 +48,15 @@ Download the following files and place them in the correct paths:
 
 The dataset includes:
 
-- Interaction images (EGO4D)
-- Masks (from LISA)
-- Hotspot maps
+- Interaction images (from [EGO4D](https://ego4d-data.org/))
+- Masks (from [LISA](https://github.com/dvlab-research/LISA))
+- Interaction hotspots
 - Hand trajectories (pre/post contact)
 - Hand pose (on contact frame)
-- Hand contact area
+- Hand contact area (.ply)
 
-📥 [Download dataset](https://pan.baidu.com/s/12o8Fn2dqL1HdJgIiRj_u0w?pwd=t5xi) code: `t5xi`  
-📘 [Download annotations](https://pan.baidu.com/s/1Kz-GGJeExAQq76sQQw_KfQ?pwd=nn4i) code: `nn4i`
+[Download dataset](https://pan.baidu.com/s/12o8Fn2dqL1HdJgIiRj_u0w?pwd=t5xi) code: `t5xi`  
+[Download annotations](https://pan.baidu.com/s/1Kz-GGJeExAQq76sQQw_KfQ?pwd=nn4i) code: `nn4i`
 
 Organize as:
 
@@ -110,7 +110,7 @@ bash train.sh
 
 ## ✉️ Statement <a name="5"></a>
 
-This project is for research use only. Contact us: [zhangzichen@mail.ustc.edu.cn](mailto:zhangzichen@mail.ustc.edu.cn)
+This project is for research use only. For any questions or commercial licensing requests, please contact us: [zhangzichen@mail.ustc.edu.cn](mailto:zhangzichen@mail.ustc.edu.cn)
 
 ---
 
@@ -132,7 +132,7 @@ This project is for research use only. Contact us: [zhangzichen@mail.ustc.edu.cn
 
 ## 🙏 Acknowledgement <a name="7"></a>
 
-This project benefits from:
+This project benefits a lot from the following excellent works. We sincerely thank the authors for their open-source contributions:
 
 - [HaMeR](https://github.com/geopavlakos/hamer)
 - [LISA](https://github.com/dvlab-research/LISA)
