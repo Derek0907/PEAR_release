@@ -6,6 +6,8 @@ Official PyTorch implementation of **PEAR**, published in *Science China Informa
 
 Paper: [https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4405-4](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4405-4)
 
+**Authors**: Zichen Zhang, Hongchen Luo, Wei Zhai, Yang Cao, Yu Kang
+
 ---
 
 ## 📋 Table of Content
